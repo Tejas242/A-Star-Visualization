@@ -12,7 +12,8 @@ This is a Python implementation of the A* search algorithm, along with a simple 
 1. Clone this repository.
 2. Install the required dependencies (e.g. `pip install pygame`).
 3. Run the script `pathfinder.py`.
-4. Observe the algorithm as it searches for a path from the top left corner to the bottom right corner of the grid.
+4. The `pathfinder_terminal.py` for terminal text based version.
+5. Observe the algorithm as it searches for a path from the top left corner to the bottom right corner of the grid.
 
 ## Features
 
